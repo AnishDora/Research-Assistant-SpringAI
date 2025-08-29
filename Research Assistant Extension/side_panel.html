@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Research Assistant</title>
+    <link rel="stylesheet" href="content.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Research Assistant</h2>
+        </div>
+
+        <div class="actions">
+            <select id="operationButton">
+                <option value="paraphrase">Paraphrase</option>
+                <option value="simplify">Simplify</option>
+                <option value="summarize">Summarize</option>
+                <option value="summarize (bullet points)">Summarize (Bullet Points)</option>
+                <option value="suggest related topics">Suggest related topics</option>
+            </select>
+            <div>
+                <button id="performOperation">Perform Operation</button>
+            </div>
+        </div>
+
+        <div class="notes">
+            <h3>Research Notes</h3>
+            <textarea id="notes" placeholder="Take notes here"></textarea>
+            <button id="saveNotesBtn">Save Notes</button>
+            <button id="resetNotesBtn">Reset</button>
+            <button id="copyToNotesBtn">Copy to Notes</button>
+        </div>
+
+        <div id="results"></div>
+    </div>
+    <script src="content.js"></script>
+</body>
+</html>

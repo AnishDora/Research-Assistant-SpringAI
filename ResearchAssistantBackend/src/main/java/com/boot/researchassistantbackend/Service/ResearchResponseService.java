@@ -20,7 +20,6 @@ public class ResearchResponseService {
     public String researchResponseGenerator(String content, String operation){
         return ollamaModel
                 .prompt()
-                .system("")
                 .user(promptUserSpec ->
                         promptUserSpec
                                 .text(resource)
