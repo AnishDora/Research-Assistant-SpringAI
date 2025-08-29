@@ -58,6 +58,6 @@ The extension automatically organizes your notes by website domain:
 
 
 <img width="1469" height="798" alt="Screenshot 2025-08-29 at 16 22 35" src="https://github.com/user-attachments/assets/4ad8300e-2455-42b0-b41a-446c6c48a79a" />
-<img width="376" height="798" alt="Screenshot 2025-08-29 at 16 23 40" src="https://github.com/user-attachments/assets/6a4c8b70-a6d1-4148-bf13-7e4b27e48d61" />
 <img width="372" height="795" alt="Screenshot 2025-08-29 at 16 23 29" src="https://github.com/user-attachments/assets/262e9236-2950-4ea1-b970-ad808218657c" />
+<img width="376" height="798" alt="Screenshot 2025-08-29 at 16 23 40" src="https://github.com/user-attachments/assets/6a4c8b70-a6d1-4148-bf13-7e4b27e48d61" />
 
